@@ -1,14 +1,17 @@
-CKEditor 5 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20CKEditor%205%20on%20GitHub&url=https%3A%2F%2Fgithub.com%2Fckeditor%2Fckeditor5)
-===================================
+# CKEditor 5 
 
-[![npm version](https://badge.fury.io/js/ckeditor5.svg)](https://www.npmjs.com/package/ckeditor5)
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/chkeditor5.svg)](https://github.com/gaomingcode/chkeditor5)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/chkeditor5)](https://github.com/gaomingcode/chkeditor5)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/chkeditor5)](https://github.com/gaomingcode/chkeditor5)
 
-[![Build Status](https://travis-ci.com/ckeditor/ckeditor5.svg?branch=master)](https://travis-ci.com/ckeditor/ckeditor5)
-[![Dependency Status](https://img.shields.io/david/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5)
-[![devDependency Status](https://img.shields.io/david/dev/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5?type=dev)
+## Installation
 
-[![Join newsletter](https://img.shields.io/badge/join-newsletter-00cc99.svg)](http://eepurl.com/c3zRPr)
-[![Follow twitter](https://img.shields.io/badge/follow-twitter-00cc99.svg)](https://twitter.com/ckeditor)
+### Composer
+
+```
+composer require gaomingcode/ckeditor5
+```
+###
 
 A set of ready-to-use rich text editors created with a powerful framework. Made with real-time collaborative editing in mind.
 
