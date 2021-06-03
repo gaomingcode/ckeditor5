@@ -1,8 +1,8 @@
 # CKEditor 5 
 
-[![GitHub Version](https://img.shields.io/github/release/gaomingcode/chkeditor5.svg)](https://github.com/gaomingcode/chkeditor5)
-[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/chkeditor5)](https://github.com/gaomingcode/chkeditor5)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/chkeditor5)](https://github.com/gaomingcode/chkeditor5)
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/ckeditor5.svg)](https://github.com/gaomingcode/ckeditor5)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/ckeditor5)](https://github.com/gaomingcode/ckeditor5)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/ckeditor5)](https://github.com/gaomingcode/ckeditor5)
 
 ## Installation
 
