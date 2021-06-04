@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/ckeditor5.svg)](https://github.com/gaomingcode/ckeditor5)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/ckeditor5)](https://github.com/gaomingcode/ckeditor5)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/ckeditor5)](https://github.com/gaomingcode/ckeditor5)
+[![Github License](https://img.shields.io/github/license/gaomingcode/ckeditor5)](https://github.com/gaomingcode/ckeditor5)
 
 ## Installation
 
@@ -11,7 +11,17 @@
 ```
 composer require gaomingcode/ckeditor5
 ```
-###
+
+## ReadMe from Origin
+
+[![npm version](https://badge.fury.io/js/ckeditor5.svg)](https://www.npmjs.com/package/ckeditor5)
+
+[![Build Status](https://travis-ci.com/ckeditor/ckeditor5.svg?branch=master)](https://travis-ci.com/ckeditor/ckeditor5)
+[![Dependency Status](https://img.shields.io/david/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5)
+[![devDependency Status](https://img.shields.io/david/dev/ckeditor/ckeditor5.svg)](https://david-dm.org/ckeditor/ckeditor5?type=dev)
+
+[![Join newsletter](https://img.shields.io/badge/join-newsletter-00cc99.svg)](http://eepurl.com/c3zRPr)
+[![Follow twitter](https://img.shields.io/badge/follow-twitter-00cc99.svg)](https://twitter.com/ckeditor)
 
 A set of ready-to-use rich text editors created with a powerful framework. Made with real-time collaborative editing in mind.
 
@@ -687,6 +697,18 @@ See CKEditor 5 release blog posts [on the CKEditor blog](https://ckeditor.com/bl
 	</td>
 	<td>
 		The "select all" feature.
+	</td>
+</tr>
+
+<tr>
+	<td>
+		<a href="https://github.com/ckeditor/ckeditor5/tree/master/packages/ckeditor5-source-editing"><code>@ckeditor/ckeditor5-source-editing</code></a>
+	</td>
+	<td>
+		<a href="https://www.npmjs.com/package/@ckeditor/ckeditor5-source-editing"><img src="https://img.shields.io/npm/v/@ckeditor/ckeditor5-source-editing.svg" alt="@ckeditor/ckeditor5-source-editing npm package badge"></a>
+	</td>
+	<td>
+		The source editing feature.
 	</td>
 </tr>
 
